@@ -1,0 +1,5 @@
+Air Quality Project -- File I/O Summary
+========================================
+Lines read directly from CSV: 2000
+Total AQI of those rows: 40763.12
+Average AQI of those rows: 20.38
